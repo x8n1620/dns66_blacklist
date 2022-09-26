@@ -37,3 +37,4 @@ ff02::3 ip6-allhosts
 # 0.0.0.0 example.com
 0.0.0.0 dji.com
 0.0.0.0 djicdn.com
+0.0.0.0 djiops.com
